@@ -1,0 +1,8 @@
+Merry Christmas ${PERSON_NAME}!
+
+You have randomly been paired with ${PAIRED_WITH}
+
+Hope you find the perfect gift!
+
+Sincerely,
+Adam

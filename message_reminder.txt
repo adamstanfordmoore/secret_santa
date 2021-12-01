@@ -1,0 +1,7 @@
+Merry Christmas ${PERSON_NAME}!
+
+I can’t wait to see you on the 24th! Once again I was put in charge of Secret Santa.
+I am reminding you that your secret person is: ${PAIRED_WITH}
+
+Sincerely,
+Adam
